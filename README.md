@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NithyaNallasamy
 - 👀 I’m interested in ... Devops
-- 🌱 I’m currently learning ... Ansible, Terraform, Kubernetes, Docker
+- 🌱 I’m currently learning ... AWS,Ansible, Terraform, Kubernetes, Docker
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... nithyag577@gmail.com
 - 😄 Pronouns: ...
